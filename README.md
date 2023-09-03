@@ -1,4 +1,4 @@
-<img alt="Coding" width="400" src="https://i.pinimg.com/originals/70/84/f1/7084f11afeab4bc5ca322925ee28fb1c.gif">
+<img alt="Coding" src="https://i.pinimg.com/originals/70/84/f1/7084f11afeab4bc5ca322925ee28fb1c.gif">
 # 💫 About Me:
 I'm currently working on PartnerHelper<br>I'm currently learning algorithmics (MIT 6.006 OCW) and React Native<br>I love drawing and music
 
