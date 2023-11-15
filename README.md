@@ -2,7 +2,7 @@
 
 ---
 # 💫 About Me:
-I'm currently working on PartnerHelper<br>I'm currently learning algorithmics (MIT 6.006 OCW) and React Native<br>I love drawing and music
+I'm currently learning algorithmics (MIT 6.006 OCW) and React Native<br>I love drawing and music
 
 
 ## 🌐 Socials:
